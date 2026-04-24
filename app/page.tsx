@@ -174,9 +174,9 @@ export default function Home() {
                 Early access, design partners welcome.
               </h2>
               <p className="mt-4 max-w-xl text-sm leading-relaxed text-muted-foreground">
-                The products on this site are in active development. If you're
+                The products on this site are in active development. If you&rsquo;re
                 building something that needs governed autonomous intelligence —
-                we'd like to talk.
+                we&rsquo;d like to talk.
               </p>
             </div>
             <div className="flex flex-col gap-3 sm:flex-row">
